@@ -1,5 +1,5 @@
 # Gorilla Tag Name Changer
-this is a mod for gtag i made, u get a lil panel to troll kids with name changer! its great and free.
+this is a mod for gtag / Gorilla Tag i made, u get a lil panel to troll kids with name changer! its great and free.
 
 
 HOW TO USE:
